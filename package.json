@@ -1,0 +1,14 @@
+{
+  "name": "datadafne",
+  "version": "1.0.0",
+  "description": "Imports data from Excel and exports it to work with the DAFNE visualization tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Darien Miranda",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.1.0"
+  }
+}
